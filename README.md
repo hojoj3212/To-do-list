@@ -7,7 +7,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/todo-manager.git
+   git clone https://github.com/hojoj3212/todo-manager.git
    cd todo-manager
 
 ## 🚀 Запуск
